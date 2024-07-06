@@ -1,4 +1,4 @@
-CricFever is a comprehensive web application designed to provide cricket enthusiasts with real-time updates, 
+CricInformer is a comprehensive web application designed to provide cricket enthusiasts with real-time updates, 
 statistics, and interactive features related to the sport. Developed using Java technologies and leveraging the 
 Spring framework, CricFever offers a user-friendly interface accessible via web browsers on both desktop and 
 mobile devices.The core functionalities of CricFever include live match scores, player statistics, team 
